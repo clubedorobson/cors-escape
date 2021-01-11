@@ -1,5 +1,6 @@
 {
   "name": "cors-escape",
+  "version": "1.0.2"
   "description": "CORS Escape is a reverse proxy which adds CORS headers to the proxied request. Request URL is taken from the path",
   "license": "MIT",
   "repository": {
